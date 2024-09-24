@@ -15,3 +15,7 @@ Please see [this video](https://youtu.be/OH0gE1ghreE)
 ## IntelliJ
 
 Please see [the class](https://web.dio.me/course/testes-unitarios-com-junit/learning/1e138856-fb8f-442a-82bc-d9ed541ee956?back=/track/coding-the-future-claro-java-spring-boot).
+
+## Other comments
+
+- You can insert the function call `fail()` to force
