@@ -10,7 +10,9 @@ I tested in [this project](https://github.com/andreterceiro/dio-maven-hello-worl
 
 ## Eclipse
 
-Please see [this video](https://youtu.be/OH0gE1ghreE)
+Please see [this class](https://youtu.be/OH0gE1ghreE)
+
+[My analysis (video)](https://youtu.be/OH0gE1ghreE).
 
 ## IntelliJ
 
